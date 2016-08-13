@@ -1,10 +1,9 @@
 # Menus
 menu:
   主页: .
-  归档: archives
+  时光轴: archives
   分类: categories
   标签: tags
-  GitHub: https://github.com
   About: about
 
 # Customize
