@@ -1,5 +1,7 @@
 title: "About"
 layout: "page"
+comments: false
+share: false
 ---
 骑猴上树
 男
