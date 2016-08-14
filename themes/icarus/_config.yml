@@ -53,8 +53,14 @@ comment:
     duoshuo: qihoushangshu  # enter duoshuo shortname here
 
 # Share
-share: default # options: jiathis, bdshare, addtoany, default
+share: duoshuo # options: jiathis, bdshare, addtoany, duoshuo, default
 
+#share url
+url: https://qihoushangshu.github.io/
+
+#share image
+image_share: css/images/avatar.jpg
+ 
 # Plugins
 plugins:
     fancybox: true # options: true, false

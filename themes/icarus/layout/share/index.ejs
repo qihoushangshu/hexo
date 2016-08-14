@@ -8,6 +8,9 @@
 <% if (theme.share === 'addtoany') { %>
     <%- partial('addtoany') %>
 <% } %>
+<% if (theme.share === 'duoshuo') { %>
+    <%- partial('duoshuo') %>
+<% } %>
 </div>
 <% if (!theme.share || theme.share === 'default') { %>
     <%- partial('default', { post: post }) %>
