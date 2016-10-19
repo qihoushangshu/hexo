@@ -27,8 +27,8 @@ customize:
     favicon: # path to favicon
     social_links:
         github: http://github.com/ppoffice/hexo-theme-icarus
-        twitter: /
-        facebook: /
+        twitter: https://twitter.com/sixiaodong
+        facebook: https://www.facebook.com/profile.php?id=100007055312190
         dribbble: /
         rss: /
     social_link_tooltip: true # enable the social link tooltip, options: true, false
