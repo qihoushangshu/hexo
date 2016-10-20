@@ -63,7 +63,8 @@ image_share: css/images/avatar.jpg
  
 # Plugins
 plugins:
-    fancybox: true # options: true, false
+    lightgallery: true # options: true, false
+    justified-gallery: true # options: true, false
     cnzz_analytics: true
     google_analytics: # enter the tracking ID for your Google Analytics
     google_site_verification: # enter Google site verification code
