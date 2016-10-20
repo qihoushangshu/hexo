@@ -2,6 +2,9 @@
     <% if (theme.plugins.fancybox) { %>
         <%- css('vendor/fancybox/jquery.fancybox') %>
     <% } %>
+    <% if (theme.plugins.cnzz_analytics) { %>
+        <%- partial('plugin/cnzz-analytics') %>
+    <% } %>
     <% if (theme.plugins.google_analytics) { %>
         <%- partial('plugin/google-analytics') %>
     <% } %>
