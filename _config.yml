@@ -69,5 +69,8 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/qihoushangshu/qihoushangshu.github.io.git
+  repository:
+      github: https://github.com/qihoushangshu/qihoushangshu.github.io.git
+      coding: https://git.coding.net/qihoushangshu/qihoushangshu.git
   branch: master
+  

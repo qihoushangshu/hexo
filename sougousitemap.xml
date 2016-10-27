@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- XML文件需以utf-8编码 -->
+<urlset>
+  <url>
+  <!-- 必填,是具体某个链接的定义入口，每一条数据都要用<url>和</url>包含在其中 -->
+	<loc>http://qihoushangshu.coding.me/</loc>
+	<!-- 必填,URL链接地址,长度不得超过256字节 -->
+	<lastmod>2016-10-027</lastmod>
+	<!-- 选填,该链接的最后更新时间 -->
+	<changefreq>daily</changefreq>
+	<!-- 选填,此链接可能会出现的更新频率，
+	有效值为：always，hourly，daily，weekly，monthly，yearly，never -->
+	<priority>0.8</priority>
+	<!-- 选填,此链接相对于其他链接的优先权比值，定于0.0-1.0之间 -->
+  </url>
+  <!-- 另一条数据 -->
+</urlset>
